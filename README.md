@@ -4,6 +4,10 @@
 ![](https://img.shields.io/badge/version-4.0-red.svg)
 
 ### About:
+| Pop-upSelectionView | 
+| ------------- | 
+| ![PopUp](ezgif.com-video-to-gif.gif) | 
+
 PupSelectionView simulate facebook emoji button with 2 options
 + pop-up on  a specific position
 + pop-up on a touched point
